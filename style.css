@@ -18,7 +18,7 @@ button{
     background: rebeccapurple;
     border: none;
     color: white;
-    position: relative;
+    position: fixed;
     top: 20px;
     right: 20px;
     padding: 1rem;
